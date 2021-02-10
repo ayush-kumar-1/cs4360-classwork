@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mD:\CS4360\classwork\src\main\scala\feb9\Collinearity.scala:15:13: overloaded method constructor VectorD with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (iv: (Int, Double),dm: Int)scalation.linalgebra.VectorD <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (dim: Int,v: Array[Double])scalation.linalgebra.VectorD[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to ((Double, Double, Double, Double), Int)[0m
+[0m[[0m[31merror[0m] [0m[0m    val y = new VectorD((1.0,3.0,3.0,4.0), 4)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
